@@ -1,4 +1,4 @@
-# Simple Code Text
+# Simple Code Test
 
 The test is about build the JavaScript node program which converts HTML to Object value.
 I use "parse5" node module to parse DOM elements from HTML string. The program runs from the both CLI by reading a file and browser by textarea input.
